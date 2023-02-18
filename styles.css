@@ -1,2 +1,98 @@
+.out{
+	display:flex;
+	gap:2px
+}
+.mar{
+	margin:1px;
+}
+.inner{
+	width:590px;
+	height:380px;
+	border:2px solid black;
+}
+.outer-table2{
+	padding-top:20px;
+	width:290px;
+	height:90px;
+	border:2px solid black;
+	margin:2px;
+	margin-left:0px;
+}
+.table3{
+	width:280px;
+	height:60px;
+	border:2px solid black;
+	margin:2px;
+}
+.table2{
+	width:280px;
+	height:160px;;
+	border:2px solid black;
+	margin:2px;
+}
+.list{
+	width:270px;
+	height:125px;
+	border:2px solid black;
+	margin:3px;
+}
+ul{
+	padding-top:15px
+}
+.D::disc{
+	padding:
+}
 
-/* Your CSS Code here. */
+.inner-table1{
+	width:290px;
+	height:210px;
+	border:2px solid black;
+	padding-top:50px;
+}
+.outer-table1{
+	width:290px;
+	height:180px;
+	border:2px solid black;
+	padding-top:80px;
+}
+.flex1,.flex2,.flex3{
+	display:flex;
+}
+.table1{
+	width:280px;
+	height:90px;;
+	border:2px solid black;
+	margin:2px;
+}
+.N2{
+	margin:3px;
+	width:270px;
+	height:20px;
+	border:2px solid black;
+}
+.N3{
+	margin:3px;
+	width:270px;
+	height:20px;
+	border:2px solid black;
+	color:white;
+	background-color:black;
+}
+.html{
+	text-align:center;
+	margin-left:30px;
+}
+.c1,.c2{
+	width:135px;
+	height:20px;
+	border:2px solid black;
+	margin:3px;
+}
+.c3,.c4{
+	width:135px;
+	height:20px;
+	border:2px solid black;
+	margin:3px;
+	text-align:center;
+}
+
