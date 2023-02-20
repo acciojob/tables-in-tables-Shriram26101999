@@ -1,98 +1,51 @@
-.out{
-	display:flex;
-	gap:2px
+table{
+    border: 1px solid rgb(0, 0, 0);
 }
-.mar{
-	margin:1px;
-}
-.inner{
-	width:590px;
-	height:380px;
-	border:2px solid black;
-}
-.outer-table2{
-	padding-top:20px;
-	width:290px;
-	height:90px;
-	border:2px solid black;
-	margin:2px;
-	margin-left:0px;
-}
-.table3{
-	width:280px;
-	height:60px;
-	border:2px solid black;
-	margin:2px;
-}
-.table2{
-	width:280px;
-	height:160px;;
-	border:2px solid black;
-	margin:2px;
-}
-.list{
-	width:270px;
-	height:125px;
-	border:2px solid black;
-	margin:3px;
-}
-ul{
-	padding-top:15px
-}
-.D::disc{
-	padding:
+td{
+    border: 1px solid rgb(0, 0, 0);
 }
 
-.inner-table1{
-	width:290px;
-	height:210px;
-	border:2px solid black;
-	padding-top:50px;
+
+th{
+    border: 1px solid rgb(0, 0, 0);
 }
-.outer-table1{
-	width:290px;
-	height:180px;
-	border:2px solid black;
-	padding-top:80px;
-}
-.flex1,.flex2,.flex3{
-	display:flex;
-}
+
 .table1{
-	width:280px;
-	height:90px;;
-	border:2px solid black;
-	margin:2px;
+    vertical-align: middle;
+    height: 200px;
+   
 }
-.N2{
-	margin:3px;
-	width:270px;
-	height:20px;
-	border:2px solid black;
+.table1 table{
+    width: 100%;
 }
-.N3{
-	margin:3px;
-	width:270px;
-	height:20px;
-	border:2px solid black;
-	color:white;
-	background-color:black;
-}
-.html{
-	text-align:center;
-	margin-left:30px;
-}
-.c1,.c2{
-	width:135px;
-	height:20px;
-	border:2px solid black;
-	margin:3px;
-}
-.c3,.c4{
-	width:135px;
-	height:20px;
-	border:2px solid black;
-	margin:3px;
-	text-align:center;
+.table1 table td{
+    text-align: center;
 }
 
+.table2 table{
+    width: 100%;
+}
+.table2 table td{
+    text-align: center;
+}
+
+.table3{
+    height: 100px;
+}
+.table3 table{
+    width: 100%;
+}
+
+.t td{
+    text-align: center;
+}
+
+.table4 table{
+    width: 100%;
+}
+
+.t1 td{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
